@@ -1,4 +1,4 @@
-## BMI-App-Xcode
+## BMI Calculator
 It is a mediocre BMI calculator app with basic functionalities.
 
 ## Motivation
